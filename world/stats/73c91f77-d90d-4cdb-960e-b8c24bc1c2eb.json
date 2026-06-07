@@ -1,0 +1,99 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 11,
+      "minecraft:time_since_rest": 22828,
+      "minecraft:walk_one_cm": 207744,
+      "minecraft:leave_game": 9,
+      "minecraft:walk_under_water_one_cm": 47,
+      "minecraft:damage_taken": 4700,
+      "minecraft:play_time": 122137,
+      "minecraft:damage_dealt": 369,
+      "minecraft:jump": 203,
+      "minecraft:time_since_death": 22790,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sprint_one_cm": 24667,
+      "minecraft:open_chest": 95,
+      "minecraft:fall_one_cm": 40541,
+      "minecraft:total_world_time": 122137,
+      "minecraft:fly_one_cm": 977,
+      "minecraft:walk_on_water_one_cm": 598,
+      "minecraft:crouch_one_cm": 37733,
+      "minecraft:sneak_time": 12074,
+      "minecraft:climb_one_cm": 471,
+      "minecraft:deaths": 4
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1
+    },
+    "minecraft:broken": {
+      "minecraft:stone_pickaxe": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:dirt": 86,
+      "minecraft:stick": 6,
+      "minecraft:cobblestone": 549,
+      "minecraft:sugar_cane": 6,
+      "minecraft:gravel": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:torch": 2,
+      "minecraft:oak_sapling": 15,
+      "minecraft:pink_tulip": 1,
+      "minecraft:cactus": 2,
+      "minecraft:oxeye_daisy": 1,
+      "minecraft:apple": 2,
+      "minecraft:oak_log": 23,
+      "minecraft:oak_fence": 7,
+      "minecraft:sand": 13,
+      "minecraft:dandelion": 1,
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:mined": {
+      "minecraft:dirt": 54,
+      "minecraft:chest": 2,
+      "minecraft:vine": 1,
+      "minecraft:dandelion": 2,
+      "minecraft:grass_block": 39,
+      "minecraft:oak_fence": 7,
+      "minecraft:cobblestone": 820,
+      "minecraft:sugar_cane": 4,
+      "minecraft:gravel": 2,
+      "minecraft:short_grass": 8,
+      "minecraft:ice": 2,
+      "minecraft:wall_torch": 1,
+      "minecraft:pink_tulip": 1,
+      "minecraft:sand": 13,
+      "minecraft:cactus": 2,
+      "minecraft:oxeye_daisy": 1,
+      "minecraft:oak_log": 30,
+      "minecraft:stone": 3
+    },
+    "minecraft:used": {
+      "minecraft:oak_fence": 12,
+      "minecraft:sand": 1,
+      "minecraft:stone_sword": 6,
+      "minecraft:lava_bucket": 2,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:cobblestone": 112,
+      "minecraft:water_bucket": 2,
+      "minecraft:bucket": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:oak_planks": 1,
+      "minecraft:oak_fence_gate": 1,
+      "minecraft:oak_sapling": 19,
+      "minecraft:stone_pickaxe": 829,
+      "minecraft:ice": 3,
+      "minecraft:dirt": 167
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 44,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:oak_fence_gate": 1,
+      "minecraft:oak_fence": 6,
+      "minecraft:oak_planks": 16,
+      "minecraft:stone_pickaxe": 19
+    }
+  },
+  "DataVersion": 4671
+}

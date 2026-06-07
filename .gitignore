@@ -1,0 +1,14 @@
+logs/
+*.log
+*.log.gz
+.console_history
+crash-reports/
+ops.json
+whitelist.json
+banned-ips.json
+banned-players.json
+usercache.json
+usernamecache.json
+*.zip
+*.7z
+server.properties.local-backup
